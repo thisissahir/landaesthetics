@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 260" width="470" height="260">
+  <defs>
+    
+  </defs>
+  <rect x="0" y="0" width="470" height="260" fill="#F3EDE4"></rect>
+  <rect x="50" y="80" width="100" height="100" fill="none" stroke="#2A2520" stroke-width="1"></rect>
+  <text class="m" x="100" y="130" font-size="48" font-weight="300" letter-spacing="-3" text-anchor="middle" dominant-baseline="central">LA</text>
+  <line x1="185" y1="85" x2="185" y2="175" stroke="#C9A79C" stroke-width="1"></line>
+  <text class="m" x="218" y="124" font-size="32" font-weight="400" letter-spacing="6">LAND</text>
+  <text class="m" x="219" y="158" font-size="16" font-weight="400" letter-spacing="9">AESTHETICS</text>
+</svg>
