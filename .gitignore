@@ -1,0 +1,5 @@
+# Source-original images kept locally, not deployed.
+# The site references optimized assets in assets/img/*.webp instead.
+/*.jpeg
+/*.jpg
+/*.png
